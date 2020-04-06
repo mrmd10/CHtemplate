@@ -1,3 +1,9 @@
+# CH Template
+**v1.0.0 - [Change log](CHANGELOG)**
+
+This project is used to provide template for change log.
+
+
 ## Development
 
 ### Dependency
